@@ -1,2 +1,3 @@
 # BurgerCode
-site de vente en ligne ecrit en HTML,CSS ET PHP
+
+site de vente en ligne ecrit en *HTML*,*CSS ET PHP*
